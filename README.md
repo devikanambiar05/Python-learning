@@ -15,6 +15,7 @@ This repository documents my progress as I work through a **100 Days of Python**
 | Day | Project | Status |
 |------|----------|--------|
 | Day 01 | Password Generator | ✅ Completed |
+| Day 02 | Tip calculator | ✅ Completed |
 
 > More projects will be added as I continue learning.
 
@@ -35,8 +36,9 @@ This repository documents my progress as I work through a **100 Days of Python**
 
 ## 📈 Progress Tracker
 
-- ✅ Day 01 – Password Generator
-- ⏳ Day 02 – Coming soon...
+- 🔐 Day 01 – Password Generator
+- 💲 Day 02 – Tip calculator
+- 🧭 Coming soon...
 
 ---
 
