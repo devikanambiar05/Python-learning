@@ -43,6 +43,7 @@ else:
     print(scissors)
 
 output = random.choice([rock, paper, scissors])
+
 print("The computer chose: ")
 print(output)
 
