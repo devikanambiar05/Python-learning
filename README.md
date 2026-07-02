@@ -17,6 +17,7 @@ This repository documents my progress as I work through a **100 Days of Python**
 | Day 01 | Password Generator | ✅ Completed |
 | Day 02 | Tip calculator | ✅ Completed |
 | Day 03 | Treasure map game | ✅ Completed |
+| Day 04 | Rock Paper Scissors game | ✅ Completed |
 
 > More projects will be added as I continue learning.
 
@@ -40,7 +41,8 @@ This repository documents my progress as I work through a **100 Days of Python**
 - 🔐 Day 01 – Password Generator
 - 💲 Day 02 – Tip calculator
 - 🧭 Day 03 - Treasure map game
-- ✂️ Day 04 - Coming soon...
+- ✂️ Day 04 - Rock Paper Scissors game
+- 🔑 Day 05 - Coming soon...
 
 ---
 
