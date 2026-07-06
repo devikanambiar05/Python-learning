@@ -20,6 +20,8 @@ This repository documents my progress as I work through a **100 Days of Python**
 | Day 04 | Rock Paper Scissors game | ✅ Completed |
 | Day 05 | Advanced Password Generator | ✅ Completed |
 | Day 06 | Completed hurdles on Reeborg's world | ✅ Completed |
+| Day 07 | Hangman game | ✅ Completed |
+
 > More projects will be added as I continue learning.
 
 ## 🛠️ Technologies Used
@@ -45,7 +47,7 @@ This repository documents my progress as I work through a **100 Days of Python**
 - ✂️ Day 04 - Rock Paper Scissors game
 - 🔑 Day 05 - Advanced Password Generator
 - 🎮 Day 06 - Hurdles on Reeborg's world
-
+- 🕹️ Day 07 - Hangman game 
 ---
 
 *"Every expert was once a beginner."*
