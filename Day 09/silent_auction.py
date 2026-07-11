@@ -33,6 +33,7 @@ while game == True:
             dict["price"].append(price)
     else:
         game = False
+
         print(dict)
         maxi = max(dict["price"])
         print(maxi)
