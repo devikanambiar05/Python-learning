@@ -23,6 +23,7 @@ This repository documents my progress as I work through a **100 Days of Python**
 | Day 07 | Hangman game | ✅ Completed |
 | Day 08 | Caesar Cipher | ✅ Completed |
 | Day 09 | Silent Auction | ✅ Completed |
+| Day 10 | Calculator| ✅ Completed |
 
 > More projects will be added as I continue learning.
 
@@ -52,6 +53,7 @@ This repository documents my progress as I work through a **100 Days of Python**
 - 🕹️ Day 07 - Hangman game
 - 🏛️ Day 08 - Caesar Cipher
 - ⚖️ Day 09 - Silent Auction
+- 🧮 Day 10 - Calculator
 ---
 
 *"Every expert was once a beginner."*
