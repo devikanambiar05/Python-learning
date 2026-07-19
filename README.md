@@ -24,6 +24,7 @@ This repository documents my progress as I work through a **100 Days of Python**
 | Day 08 | Caesar Cipher | ✅ Completed |
 | Day 09 | Silent Auction | ✅ Completed |
 | Day 10 | Calculator| ✅ Completed |
+| Day 11 | Blackjack| ✅ Completed |
 
 > More projects will be added as I continue learning.
 
@@ -54,6 +55,7 @@ This repository documents my progress as I work through a **100 Days of Python**
 - 🏛️ Day 08 - Caesar Cipher
 - ⚖️ Day 09 - Silent Auction
 - 🧮 Day 10 - Calculator
+- ♣️ Day 11 - Blackjack 
 ---
 
 *"Every expert was once a beginner."*
