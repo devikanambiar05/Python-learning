@@ -26,6 +26,7 @@ This repository documents my progress as I work through a **100 Days of Python**
 | Day 10 | Calculator| ✅ Completed |
 | Day 11 | Blackjack| ✅ Completed |
 | Day 12 | Number guessing game| ✅ Completed |
+| Day 13 | Debugging exercise | ✅ Completed |
 
 > More projects will be added as I continue learning.
 
@@ -58,6 +59,7 @@ This repository documents my progress as I work through a **100 Days of Python**
 - 🧮 Day 10 - Calculator
 - ♣️ Day 11 - Blackjack
 - 🔢 Day 12 - Number guessing game
+- 🐞 Day 13 - Debugging exercises
 ---
 
 *"Every expert was once a beginner."*
