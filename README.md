@@ -27,6 +27,7 @@ This repository documents my progress as I work through a **100 Days of Python**
 | Day 11 | Blackjack| ✅ Completed |
 | Day 12 | Number guessing game| ✅ Completed |
 | Day 13 | Debugging exercise | ✅ Completed |
+| Day 13 | Higher or lower game | ✅ Completed |
 
 > More projects will be added as I continue learning.
 
@@ -60,6 +61,7 @@ This repository documents my progress as I work through a **100 Days of Python**
 - ♣️ Day 11 - Blackjack
 - 🔢 Day 12 - Number guessing game
 - 🐞 Day 13 - Debugging exercises
+- ⬆️ Day 14 - Higher or Lower game
 ---
 
 *"Every expert was once a beginner."*
